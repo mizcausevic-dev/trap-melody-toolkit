@@ -1,0 +1,26 @@
+{
+  "title": "Trap Melody Toolkit",
+  "study": "tm01",
+  "bpm": 140,
+  "source_audio": "preview/trap-melody-toolkit-simple-synth-preview.mp3",
+  "source_audio_sha256": "e3f9886fdbe952efea05d2ac41841984d6e8402c13facdec045749eba06b4855",
+  "source_midi": "midi/tm01-night-glass/tm01-night-glass-combined.mid",
+  "source_midi_sha256": "c1387098f2a6d6545eaff5aacfdcad798e1379f7d93097f2f2f07d9b3b3d8c4e",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "bdc7552657e63e3ecf4c24ac847cf491b7e015a436cd6f2f30db57c33d4f4362",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "cda1d3943a005c23cae631d514185141f045eade359609c787cb2d9cd4260ee4",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "9972473cb486f92d1c49b313c802df6f7453f77049a854d76ba1385c5047d480",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

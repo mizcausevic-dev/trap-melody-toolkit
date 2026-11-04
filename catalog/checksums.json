@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 789,
+      "sha256": "8121d787ef6b6647604cecd88e4649ac1fd75d3820512aff08631d240228697b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3875,
+      "sha256": "ed46f917f7be705a17f1cbe97dc6ed8a88bfa7ac44452a2d68869fee259c9032"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -197,6 +207,36 @@
       "sha256": "b2985d960512afb548090ea699c3a30c3afb2a805d7823582961e82eb713358f"
     },
     {
+      "path": "film/motion-artwork.jpg",
+      "bytes": 270952,
+      "sha256": "cda1d3943a005c23cae631d514185141f045eade359609c787cb2d9cd4260ee4"
+    },
+    {
+      "path": "film/motion-manifest.json",
+      "bytes": 1200,
+      "sha256": "c5ff6b4a45797457f9bd2c9e1caed12accbdd18fee0a1a00f27a777d64cfce0c"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2746,
+      "sha256": "d8898e7712e56b9b00a046bed16eccb8cf5dce1f292f80d700a58c9700a5d3ff"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 31989,
+      "sha256": "8f4801f2c45fbcab7540f5dc9c6526c53daa8b7fb811b5205b02671ffda51b2f"
+    },
+    {
+      "path": "film/motion-preview.mp4",
+      "bytes": 978546,
+      "sha256": "9972473cb486f92d1c49b313c802df6f7453f77049a854d76ba1385c5047d480"
+    },
+    {
+      "path": "film/motion-preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
       "path": "film/poster.jpg",
       "bytes": 235546,
       "sha256": "fba29c2973b151d9b6ebcb9c3cf8946c73dce039d9ac1f168be57f4ca4862c66"
@@ -218,8 +258,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9497,
-      "sha256": "255992bf70e39149014aabd35e859e0b1481d2a3f301d5ac8c178849f6e38184"
+      "bytes": 9512,
+      "sha256": "0275bf16bcc7722de815ae94e3f08ec0618c88ca6a13954cc7635d12356f617d"
     },
     {
       "path": "midi/tm01-night-glass/chord_pulse.mid",
@@ -372,11 +412,6 @@
       "sha256": "e3f9886fdbe952efea05d2ac41841984d6e8402c13facdec045749eba06b4855"
     },
     {
-      "path": "README.md",
-      "bytes": 3875,
-      "sha256": "ed46f917f7be705a17f1cbe97dc6ed8a88bfa7ac44452a2d68869fee259c9032"
-    },
-    {
       "path": "social/instagram/caption.txt",
       "bytes": 222,
       "sha256": "05643d625ac3acf0a01a767a8b9396e7c94f9b9a47331e7dcc3c86ed450f13be"
@@ -420,6 +455,11 @@
       "path": "tools/produce_clips.py",
       "bytes": 6758,
       "sha256": "17f1280e0d2c6b083ac402950e3350e63dfa45d0d36c8be13e968a222f80860f"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
     },
     {
       "path": "tools/validate_release.py",
