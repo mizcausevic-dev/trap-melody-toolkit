@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+tm01,Night Glass,pack-local equal-tempered pitch collection,A,140,4/4,480,32,61440,midi/tm01-night-glass/tm01-night-glass-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tm02,Slow Motion,pack-local equal-tempered pitch collection,C,140,4/4,480,32,61440,midi/tm02-slow-motion/tm02-slow-motion-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tm03,Hidden Line,pack-local equal-tempered pitch collection,D#,140,4/4,480,32,61440,midi/tm03-hidden-line/tm03-hidden-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tm04,Last Window,pack-local equal-tempered pitch collection,A#,140,4/4,480,32,61440,midi/tm04-last-window/tm04-last-window-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

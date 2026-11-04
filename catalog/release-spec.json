@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "trap-melody-toolkit",
+  "display_name": "Trap Melody Toolkit Studies",
+  "brief_name": "Trap Melody Toolkit",
+  "creative_intention": "Sparse dark melodic sketches and supporting bass notes.",
+  "rhythmic_direction": "Half-time accents and carefully spaced upper gestures.",
+  "palette": "Synth melody, bass, chords and programmed drums.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not claims of cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack trap-melody-toolkit",
+  "actual_tempo_bpm": 140,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "tm01",
+      "title": "Night Glass",
+      "tonic": "A",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "tm02",
+      "title": "Slow Motion",
+      "tonic": "C",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "tm03",
+      "title": "Hidden Line",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "tm04",
+      "title": "Last Window",
+      "tonic": "A#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}
