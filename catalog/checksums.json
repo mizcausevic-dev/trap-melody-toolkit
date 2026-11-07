@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 789,
-      "sha256": "8121d787ef6b6647604cecd88e4649ac1fd75d3820512aff08631d240228697b"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3881,
-      "sha256": "4ae05de23166cbc0e5994f64679c3e1b0a8a39a02a2a4fb002edf2df39866c81"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/trap-melody-toolkit-midi.zip",
-      "bytes": 26416,
-      "sha256": "b2985d960512afb548090ea699c3a30c3afb2a805d7823582961e82eb713358f"
+      "bytes": 28276,
+      "sha256": "e33e8bcdf16f1a044293d419498e0c918b5241fc6dceb06e3671a19211b430d3"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 31989,
       "sha256": "8f4801f2c45fbcab7540f5dc9c6526c53daa8b7fb811b5205b02671ffda51b2f"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 978546,
-      "sha256": "9972473cb486f92d1c49b313c802df6f7453f77049a854d76ba1385c5047d480"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9512,
-      "sha256": "0275bf16bcc7722de815ae94e3f08ec0618c88ca6a13954cc7635d12356f617d"
+      "bytes": 9702,
+      "sha256": "ad020d6522b8ba3e606f8103e467d470b31f227134e3042ee116219cc829e028"
     },
     {
       "path": "midi/tm01-night-glass/chord_pulse.mid",
@@ -402,6 +387,16 @@
       "sha256": "f58020e2ba8610e9b4f6ab519f81ad700346c50fd779c892d9ff57451aa88ff0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 789,
+      "sha256": "8121d787ef6b6647604cecd88e4649ac1fd75d3820512aff08631d240228697b"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1132,
       "sha256": "33018553223e4563d6d5d926cb96146cdac1ec29f71a20fa9e58c6b7b09b0fc2"
@@ -410,6 +405,11 @@
       "path": "preview/trap-melody-toolkit-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "e3f9886fdbe952efea05d2ac41841984d6e8402c13facdec045749eba06b4855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3996,
+      "sha256": "90177c64a60a919cd10b5a4292090b98b18cfe46ee51edf386674f64b5c83c40"
     },
     {
       "path": "social/instagram/caption.txt",
